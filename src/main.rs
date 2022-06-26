@@ -1,11 +1,16 @@
 fn main() {
-    println!("Hello, Maa!");
-    let my_name = "Shubham Kumar Anand";
-    let mut my_age = 21;
-    print!("{}",my_name);
-    print!("{}",my_age);
-    my_age = 22;
-    print!("{}",my_age);
-    const BIRTH_YEAR: i32 =2000;
-    print!("{}",BIRTH_YEAR);
+    let x = 5;
+    {
+      let x = 99;
+      print!("x: {}\n", x);
+    }
+    print!("x: {}\n", x);
+
+    let mut y = 100;
+    let y = 10;
+    print!("y: {}\n", y);
+
+    let meme = "Hari OM!!";
+    // let meme = make_image(meme);
+    print!("meme: {}\n", meme);
 }
