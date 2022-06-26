@@ -29,3 +29,13 @@ Compiling rust v0.1.0 (/home/imskanand/Documents/Web Development/rust)
      Running `target/release/rust`
 Hello, Maa!
 ```
+
+## Naming conventions
+
+Snake case is preferred for naming conventions in the rust programming language.
+
+Example: `myAge -> my_age`
+
+During printing the format of the output must be of string literals.
+
+Example: `print!("{}", my_age);`
