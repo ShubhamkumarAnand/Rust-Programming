@@ -1,9 +1,9 @@
 # Rust Programming Language
 
-Rust Programming Language is System programming language that provides Safe, Concurrency and Speed.
+Rust Programming Language is System's programming language that provides Safe, Concurrency and Speed.
 
-- It has seafty functionality of Python and Ruby
-- It provides Speed and Cuncurrency functionality of C++ and Java.
+- It has safety functionality of Python and Ruby
+- It provides Speed and Concurrency functionality of C++ and Java.
 - It provides a package manager that has the best of npm pip and all.
 
 ![Rust is Awesome](/GitHub_Images/Rust%20is%20Awesome.png)
@@ -45,3 +45,7 @@ Example: `myAge -> my_age`
 During printing the format of the output must be of string literals.
 
 Example: `print!("{}", my_age);`
+
+## Scoping in rust
+
+This is valid for block scope, changing the mutations in the scope.
