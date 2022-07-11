@@ -1,10 +1,10 @@
 # Rust Programming Language
 
-Rust Programming Language is System's programming language that provides Safe, Concurrency and Speed.
+Rust Programming Language is System's programming language that provides Safety, Concurrency and Speed.
 
 - It has safety functionality of Python and Ruby
 - It provides Speed and Concurrency functionality of C++ and Java.
-- It provides a package manager that has the best of npm pip and all.
+- It provides a package manager that has the best of npm, pip and all.
 
 ![Rust is Awesome](/GitHub_Images/Rust%20is%20Awesome.png)
 
